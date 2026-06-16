@@ -227,6 +227,15 @@ For this diabetes prediction use case, **XGBoost** is the recommended model beca
 
 ---
 
+## 👨‍💻 Author
+
+**Hariharaan Murugesan Salaja** 
+MSc Data Science & Analytics — University of Hertfordshire
+[LinkedIn](https://www.linkedin.com/in/hari-haraan-m-s/)
+[GitHub](https://github.com/hari-2807)
+
+---
+
 ## 🙏 Acknowledgements
 
 - Dataset: [UCI Machine Learning Repository — Pima Indians Diabetes](https://archive.ics.uci.edu/ml/datasets/diabetes)
