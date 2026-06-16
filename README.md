@@ -4,7 +4,7 @@
 
 **Use Case: Diabetes Prediction | Classification Benchmark**
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.13%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.29%2B-red?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0%2B-green?logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
@@ -14,18 +14,17 @@
 ---
 
 ## 📋 Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Dataset](#dataset)
-- [Models Compared](#models-compared)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Key Insights](#key-insights)
-- [Roadmap](#roadmap)
-- [Acknowledgements](#acknowledgements)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#%EF%B8%8F-tech-stack)
+- [Project Structure](#-project-structure)
+- [Dataset](#-dataset)
+- [Models Compared](#-models-compared)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Results](#-results)
+- [Key Insights](#-key-insights)
+- [Acknowledgements](#-acknowledgements)
 
 ---
 
@@ -228,22 +227,11 @@ For this diabetes prediction use case, **XGBoost** is the recommended model beca
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] Add SHAP or LIME explainability for better model interpretation
-- [ ] Deploy the Streamlit app on Streamlit Cloud
-- [ ] Add hyperparameter tuning using GridSearchCV or Optuna
-- [ ] Compare performance on other healthcare datasets
-- [ ] Improve the UI of the Streamlit app
-- [ ] Add cross-validation for more robust evaluation
-
----
-
 ## 🙏 Acknowledgements
 
 - Dataset: [UCI Machine Learning Repository — Pima Indians Diabetes](https://archive.ics.uci.edu/ml/datasets/diabetes)
 - Built as a supervised learning portfolio project
-- Mentorship and guidance by **Harshit Tripathi**
+- Mentorship and guidance by (@harshitboots)**Harshit Tripathi**
 
 ---
 
